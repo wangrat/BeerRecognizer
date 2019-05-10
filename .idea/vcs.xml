@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/tf-coriander" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tf-coriander/third_party/coriander" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tf-coriander/third_party/coriander/src/CLBlast" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tf-coriander/third_party/coriander/src/EasyCL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tf-coriander/third_party/coriander/src/EasyCL/thirdparty/clew" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tf-coriander/third_party/coriander/third_party/thrust" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tf-coriander/third_party/coriander/third_party/yaml-cpp" vcs="Git" />
+  </component>
+</project>

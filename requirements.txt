@@ -1,0 +1,11 @@
+numpy
+scipy
+tensorflow
+keras
+flask
+tqdm
+matplotlib
+opencv-python
+
+
+
